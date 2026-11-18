@@ -1,0 +1,9 @@
+Prompts for creating similar looking portraits
+Note: The portrait was generated with Gemini, as well as the eyes. However, the eyes were modified with Claude later, which produced a better output as only a single AI model. Outputs and quality vary a lot, so keep repeating and restarting until satisfied.
+
+portrait:
+13x18cm portrait picture, no frame: A classical oil painting portrait of a fluffy dark gray tabby vampire cat with yellow-green eyes and two small fangs. The cat wears an antique white lace collar adorned with a small metallic bat pendant. In the dimly lit Gothic background, there is a dark red curtain on the left, a small wooden table holding an old leather book and an unlit brass candlestick, and a pointed-arch Gothic window showing a crescent moon in the night sky. Rich brushstrokes, chiaroscuro lighting, muted earthy tones, vintage Victorian style.
+
+
+eyes:
+Isolate the yellow-green eyes from the reference cat portrait, keeping their exact proportions, spacing, and painterly texture. Remove the rest of the cat and background, replacing them with a soft, off-white, lightly shaded sclera-like background. Soften the outer edges of the eyes so they blend smoothly into the surface, and add delicate, branching red blood vessels radiating outward around them.

@@ -145,6 +145,9 @@ The camera part never touches the servos. It only publishes where a person is, s
 
 These come with the esp32 board package under their own licenses. None of their code is copied into this repository.
 
+## AI Disclaimer
+Portions of this project were developed with the assistance of AI (Claude Opus 5.5). All outputs have been reviewed and verified by the author.
+
 ## License
 
 MIT, see [LICENSE](LICENSE). Free to use, change and share. Please keep the copyright notice.
