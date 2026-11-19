@@ -2,15 +2,15 @@
 
 **A painting whose eyes follow you around the room.**
 
+![The painting's eyes following a person](images/gif1.gif)
+
 A small camera hidden in the picture frame finds people. Two servos move a sheet of printed eyes behind the painting, so the eyes look at whoever is in the room. When nobody is there, the eyes glance around, blink, roll and doze off on their own. When someone walks in, they react: they follow fast or with a creepy delay, do a double take, startle, freeze or get shy when you come close and look them in the eye, and stare after you when you leave.
 
 Everything runs on one small board and is set up from a web page. No app and no cloud are needed.
 
-**Video:** [Watch how it was made on YouTube](https://youtu.be/VIDEO_ID) <!-- replace VIDEO_ID with the video link -->
+**Video:** [Watch how it was made on YouTube](https://youtu.be/vSbphjCgu3U)
 
 **Channel:** [@fluxandfur on YouTube](https://www.youtube.com/@fluxandfur)
-
-<!-- GIF / photo of the painting coming soon -->
 
 ---
 
